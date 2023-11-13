@@ -94,4 +94,9 @@ func TestCerts(t *testing.T) {
 		t.Fatalf("GetRandSeen failed: %s", err)
 	}
 }
-fsfr34r3t5wsefdcfwseffrs
+
+//func Test (t *testing.T) {
+//	if err != nil{
+//		t.Fatalf("ylsb")
+//	}
+//}fsfr34r3t5wsefdcfwseffrs
