@@ -1,4 +1,4 @@
-package storage
+gerpackage storage
 
 import (
 	"testing"
@@ -93,4 +93,10 @@ func TestCerts(t *testing.T) {
 	if err != nil {
 		t.Fatalf("GetRandSeen failed: %s", err)
 	}
+}
+
+func Test (t *testing.T) {
+	if err != nil{
+		t.Fatalf("ylsb")
+}
 }
